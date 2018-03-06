@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\bin\Release\LightController.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\bin\Release\LightController.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.FormMain.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\LightController\LightController\obj\x86\Release\LightController.csproj.GenerateResource.Cache
